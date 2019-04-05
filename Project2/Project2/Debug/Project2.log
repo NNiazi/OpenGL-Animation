@@ -1,0 +1,4 @@
+﻿  coursework.cpp
+c:\users\nn478\source\repos\project2\project2\coursework.cpp(46): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\nn478\source\repos\project2\project2\coursework.cpp(1036): warning C4101: 'i': unreferenced local variable
+  Project2.vcxproj -> C:\Users\nn478\source\repos\Project2\Debug\Project2.exe
